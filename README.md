@@ -14,7 +14,7 @@ A simple Android app that calculates monthly and total dividends based on invest
 - Calculates and displays results with 2 decimal places
 - Navigation bar with Calculator & About pages
 
-👩🏻‍💻 Author 👩🏻‍💻
+👩🏻‍💻 Author
 **Name:** Balqis Saiedi  
 **Matric No:** 2023114587  
 **Course:** Mobile Technology and Development 
